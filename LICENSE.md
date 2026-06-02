@@ -1,4 +1,4 @@
-# 
+# Mejor AutoHotkey scripts para Mac OS | Instantáneo AutoHotkey scripts para PC Windows. Con copia de seguridad y soporte de scripting — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
